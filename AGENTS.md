@@ -1,6 +1,6 @@
 # save-converters
 
-Public repo of cross-platform game save converters (Python, stdlib plus pycryptodome).
+Public repo of cross-platform game save converters (Python, stdlib plus the pip packages in `requirements.txt`; no native or hand-built dependencies).
 
 ## Layout
 

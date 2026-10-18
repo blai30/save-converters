@@ -8,10 +8,13 @@ Scripts for moving game saves across platforms (console to PC so far), for games
 
 | Game | From | To |
 | --- | --- | --- |
+| [Death Stranding Director's Cut](games/playstation/death-stranding/) | PS5 | PC (Steam) |
 | [Devil May Cry 5](games/playstation/devil-may-cry-5/) | PS4, PS5 | PC (Steam) |
+| [Final Fantasy XVI](games/playstation/final-fantasy-xvi/) | PS5 | PC (Steam) |
 | [Ghost of Tsushima Director's Cut](games/playstation/ghost-of-tsushima/) | PS5 | PC (Steam) |
 | [God of War (2018)](games/playstation/god-of-war/) | PS4 | PC (Steam) |
 | [God of War Ragnarok](games/playstation/god-of-war-ragnarok/) | PS5 | PC (Steam) |
+| [Horizon Forbidden West](games/playstation/horizon-forbidden-west/) | PS5 | PC (Steam) |
 | [Tales of Arise](games/playstation/tales-of-arise/) | PS5 | PC (Steam) |
 
 ### Nintendo Switch
