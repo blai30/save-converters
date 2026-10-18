@@ -23,6 +23,8 @@ Scripts for moving game saves across platforms (console to PC so far), for games
 | --- | --- | --- |
 | [Atelier Lulua](games/switch/atelier-lulua/) | Switch | PC (Steam) |
 | [Mega Man 11](games/switch/mega-man-11/) | Switch | PC (Steam) |
+| [One Step From Eden](games/switch/one-step-from-eden/) | Switch | PC (Steam) |
+| [Overcooked! All You Can Eat](games/switch/overcooked-all-you-can-eat/) | Switch (Overcooked! Special Edition, Overcooked! 2) | PC (Steam) |
 
 ## Requirements
 
@@ -41,6 +43,7 @@ Scripts for moving game saves across platforms (console to PC so far), for games
 ```sh
 python -m unittest discover -s games/playstation/god-of-war
 python -m unittest discover -s games/playstation/god-of-war-ragnarok
+python -m unittest discover -s games/switch/overcooked-all-you-can-eat
 ```
 
 The tests use synthetic data, so they don't need any real saves.

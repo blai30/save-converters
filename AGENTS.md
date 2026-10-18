@@ -20,4 +20,5 @@ Public repo of cross-platform game save converters (Python, stdlib plus the pip 
 ```sh
 python -m unittest discover -s games/playstation/god-of-war
 python -m unittest discover -s games/playstation/god-of-war-ragnarok
+python -m unittest discover -s games/switch/overcooked-all-you-can-eat
 ```
