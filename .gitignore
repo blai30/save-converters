@@ -1,0 +1,16 @@
+# User save files, converter outputs and private research
+saves/*
+!saves/.gitkeep
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+
+# Tooling
+.playwright-mcp/
+.claude/settings.local.json
+AGENTS.local.md
+.idea/
+.vscode/

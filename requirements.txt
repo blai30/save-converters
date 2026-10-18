@@ -1,0 +1,2 @@
+# Blowfish/AES ciphers (Devil May Cry 5, Mega Man 11, Tales of Arise)
+pycryptodome>=3.20
